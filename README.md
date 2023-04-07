@@ -3,7 +3,7 @@ A simple, basic visual of hangman game. Everyone can test thier vocabulary by gu
 
 ![Screenshot from 2023-04-07 23-18-17](https://user-images.githubusercontent.com/52472445/230672534-4c5fb251-13c1-484c-a8cb-448e6c7aeb69.png)
 
-Quick Strt
+Quick Start
 ===========
 
 To run this project locally:
